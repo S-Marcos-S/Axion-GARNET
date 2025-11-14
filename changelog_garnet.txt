@@ -1,1 +1,5 @@
-- Initial OTA build. 
+Axion Garnet 2.2 GMS
+
+- Initial OTA build.
+- KSU-Next and SUSFS 1.5.10.
+- Source upstream.

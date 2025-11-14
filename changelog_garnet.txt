@@ -1,4 +1,4 @@
-Axion Garnet 2.2 GMS
+Axion Garnet 2.2
 
 - Initial OTA build.
 - KSU-Next and SUSFS 1.5.10.

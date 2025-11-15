@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1763131173,
-            "filename": "axion-2.2-NIGHTLY-20251114-UNOFFICIAL-GMS-garnet.zip",
-            "id": "2948775c335794d8ed3d282ba5c90fc3",
+            "datetime": 1763209738,
+            "filename": "axion-2.2-NIGHTLY-20251115-UNOFFICIAL-GMS-garnet.zip",
+            "id": "1e0d74f63f991968d4f13f6ce6c8d02c",
             "romtype": "UNOFFICIAL",
-            "size": 2118445681,
-            "url": "https://sourceforge.net/projects/axionaosp-garnet-builds/files/releases/axion-2.2-NIGHTLY-20251114-UNOFFICIAL-GMS-garnet.zip/download",
+            "size": 2118433689,
+            "url": "https://sourceforge.net/projects/axionaosp-garnet-builds/files/releases/axion-2.2-NIGHTLY-20251115-UNOFFICIAL-GMS-garnet.zip/download",
             "version": "2.2"
         }
     ]

@@ -1,13 +1,14 @@
 Changelog:
 
-==================
-    21/11/2025
-==================
-- I'm testing new build, don't install it now.
+21/11/2025
+-------------
+- Axion 2.2.1
+- Sync with Grewal tree.
+- Wi-fi and hotspot working together.
+- More portuguese(BR) translations added into source. 
 
-==================
-    20/11/2025
-==================
+20/11/2025
+-------------
 - Initial OTA build.
-- KSU-Next and SUSFS 1.5.10.
+- Added SUSFS 1.5.10.
 - Source upstream.

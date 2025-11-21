@@ -1,5 +1,8 @@
-Axion Garnet 2.2
+Changelog:
 
+==================
+    20/11/2025
+==================
 - Initial OTA build.
 - KSU-Next and SUSFS 1.5.10.
 - Source upstream.

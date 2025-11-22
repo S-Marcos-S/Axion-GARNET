@@ -5,7 +5,8 @@ Changelog:
 - Axion 2.2.1
 - Sync with Grewal tree.
 - Wi-fi and hotspot working together.
-- More portuguese(BR) translations added into source. 
+- More portuguese(BR) translations added into source.
+- Defined reserved-size partitions (thanks Kleidione)
 
 20/11/2025
 -------------

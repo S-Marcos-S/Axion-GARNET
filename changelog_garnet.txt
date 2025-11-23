@@ -1,6 +1,5 @@
 Changelog:
 
-I'M TESTING NEW BUILD, DON'T INSTALL IT NOW.
 23/11/2025
 -------------
 - Synced source to fix lag issue.

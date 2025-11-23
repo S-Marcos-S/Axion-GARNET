@@ -1,5 +1,10 @@
 Changelog:
 
+23/11/2025
+-------------
+- Synced source to fix lag issue.
+- Latest qpr0 build.
+
 21/11/2025
 -------------
 - Axion 2.2.1

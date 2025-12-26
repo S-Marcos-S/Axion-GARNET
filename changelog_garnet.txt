@@ -2,7 +2,8 @@ Changelog:
 
 26/12/2025
 -------------
--I'm still testing, do not update yet!
+- Sync 2.3 BETA
+- DT upstream.
 
 23/11/2025
 -------------

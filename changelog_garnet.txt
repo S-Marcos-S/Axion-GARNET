@@ -1,5 +1,16 @@
 Changelog:
 
+27/12/2025
+-------------
+I'M STILL TESTING THIS BUILD, YOU BETTER WAIT. 
+
+(From source)
+- Bring back battery porcentage.
+- GPhotos unlimited again.
+- A lot of fixes.
+
+
+
 26/12/2025
 -------------
 - Sync 2.3 BETA

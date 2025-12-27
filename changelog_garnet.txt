@@ -3,13 +3,15 @@ Changelog:
 27/12/2025
 -------------
 I'M STILL TESTING THIS BUILD, YOU BETTER WAIT. 
-
 (From source)
 - Bring back battery porcentage.
 - GPhotos unlimited again.
-- A lot of fixes.
-
-
+- Fixed level slider issues.
+- recovery: Add support for AIDL bootcontrol HAL in slot switch option.
+- recovery: add support for changing slots.
+- allowing spl downgrade by default.
+- AxionOS rebrand.
+- A lot of fixes and improvements. 
 
 26/12/2025
 -------------

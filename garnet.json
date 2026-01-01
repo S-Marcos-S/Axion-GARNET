@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1766837233,
-            "filename": "axion-2.3-BETA-20251227-UNOFFICIAL-GMS-garnet.zip",
-            "id": "7a99ed599e2b66f0ae45e352e260f20c",
+            "datetime": 1767282447,
+            "filename": "axion-2.3-BETA-20260101-UNOFFICIAL-GMS-garnet.zip",
+            "id": "2cc4b7fb82ce50ffd1552e933b024e34",
             "romtype": "UNOFFICIAL",
-            "size": 2245266142,
-            "url": "https://sourceforge.net/projects/axionaosp-garnet-builds/files/releases/axion-2.3-BETA-20251227-UNOFFICIAL-GMS-garnet.zip/download",
+            "size": 2249807191,
+            "url": "https://sourceforge.net/projects/axionaosp-garnet-builds/files/releases/axion-2.3-BETA-20260101-UNOFFICIAL-GMS-garnet.zip/download",
             "version": "2.3"
         }
     ]

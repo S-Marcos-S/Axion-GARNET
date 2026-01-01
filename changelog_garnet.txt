@@ -1,5 +1,11 @@
 Changelog:
 
+01/01/2026
+-------------
+I'M TESTING, I ADVISE YOU TO NOT UPDATE NOW.
+- Synced source
+- New launcher design and functionaries
+
 27/12/2025
 -------------
 (From source)

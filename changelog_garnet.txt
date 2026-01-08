@@ -2,6 +2,12 @@ Changelog:
 
 08/01/2026
 -------------
+HOT FIX
+- Axion 2.3 TELOS.
+- Fixed Pulse breaking when trying to edit folders.
+
+08/01/2026
+-------------
 - Implemented LunarisDolby.
 - MIUI Câmera updated.
 - Updated blobs from OS2.0.206.0.VNRMIXM.

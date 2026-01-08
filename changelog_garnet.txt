@@ -1,5 +1,13 @@
 Changelog:
 
+08/01/2026
+-------------
+- Implemented LunarisDolby.
+- MIUI Câmera updated.
+- Updated blbps from OS2.0.206.0.VNRMIXM.
+- Performance improvement.
+- Source upstream.
+
 01/01/2026
 -------------
 I'M TESTING, I ADVISE YOU TO NOT UPDATE NOW.

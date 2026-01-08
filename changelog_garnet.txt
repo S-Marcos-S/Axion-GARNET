@@ -4,7 +4,7 @@ Changelog:
 -------------
 - Implemented LunarisDolby.
 - MIUI Câmera updated.
-- Updated blbps from OS2.0.206.0.VNRMIXM.
+- Updated blobs from OS2.0.206.0.VNRMIXM.
 - Performance improvement.
 - Source upstream.
 

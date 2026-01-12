@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768168465,
-            "filename": "axion-2.3-TELOS-20260111-UNOFFICIAL-GMS-garnet.zip",
-            "id": "412ede50f556770f18d4743fa09ce1b6",
+            "datetime": 1768180225,
+            "filename": "axion-2.3-TELOS-20260112-UNOFFICIAL-GMS-garnet.zip",
+            "id": "93eb0c1f50e45306ef8e62fde6e0d565",
             "romtype": "UNOFFICIAL",
-            "size": 2363896431,
-            "url": "https://sourceforge.net/projects/axionaosp-garnet-builds/files/releases/axion-2.3-TELOS-20260111-UNOFFICIAL-GMS-garnet.zip/download",
+            "size": 2363892847,
+            "url": "https://sourceforge.net/projects/axionaosp-garnet-builds/files/releases/axion-2.3-TELOS-20260112-UNOFFICIAL-GMS-garnet.zip/download",
             "version": "2.3"
         }
     ]
 }
-

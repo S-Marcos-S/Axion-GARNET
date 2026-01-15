@@ -2,12 +2,19 @@ Changelog:
 
 14/02/2026
 -------------
-I'M STILL TESTING, WAIT A BIT. 
+- Synced source to fix launcher lags
+- LunarisDolby updated.
+- Declared 6ghz wifi support by markakash.
+- Setted VENDOR_SECURITY_PATCH to match PLATFORM by ccfries.
+- Added props to improve battery backup by karthik558.
+- Disebled TDLS offchannel by sunil-ravi.
+- Smarter decisions on whether to use a 2 or 5Ghz AP by TheCrazyLex
+- Improved automatic brightness by RealJohnGalt, LiMee233, AdarshGrewal and raghavt20.
 
 08/01/2026
 -------------
 - Axion 2.3 TELOS.
-- Fixed Pulse breaking when trying to edit folders.
+- Fixed Pulse breaking when trying to edit folders(By source).
 
 08/01/2026
 -------------

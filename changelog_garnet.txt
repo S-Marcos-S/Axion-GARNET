@@ -19,14 +19,13 @@ Changelog:
 08/01/2026
 -------------
 - Implemented LunarisDolby.
-- MIUI Câmera updated.
-- Updated blobs from OS2.0.206.0.VNRMIXM.
+- MIUI Câmera updated by Kleidione.
+- Updated blobs from OS2.0.206.0.VNRMIXM by Kleidione.
 - Performance improvement.
 - Source upstream.
 
 01/01/2026
 -------------
-I'M TESTING, I ADVISE YOU TO NOT UPDATE NOW.
 - Synced source
 - New launcher design and functionaries
 
